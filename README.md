@@ -1,5 +1,5 @@
-## ESTech Coding Challenge
+# ESTech Coding Challenge
 
-# Usage instructions:
+## Usage instructions:
 
 - TODO
